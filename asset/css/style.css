@@ -121,6 +121,7 @@ body {
 .sec-heading {
     text-align: center;
     width: 100%;
+    margin-top: 100px;
 }
 
 .sec-heading h2 {
@@ -418,8 +419,8 @@ span {
     .hero-item {
         width: 347px;
         height: 301px;
-        margin-top: 150px;
-        margin-left: 37px;
+        margin-top: 49px;
+        margin-left: 18px;
     }
 
     .hero-section {
