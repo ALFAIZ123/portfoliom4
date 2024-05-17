@@ -419,9 +419,13 @@ span {
 }
 
 @media screen and (max-width: 450px) {
+    .hero {
+        width: 314px;
+        height: 272px;
+    }
     .hero-item {
-        width: 347px;
-        height: 301px;
+        width: 338px;
+        height: 287px;
         margin-top: 49px;
         margin-left: 18px;
     }
