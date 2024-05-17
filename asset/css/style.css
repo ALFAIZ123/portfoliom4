@@ -102,6 +102,9 @@ body {
     border: none;
     letter-spacing: 2px;
 }
+.hero button:hover{
+    background-color: #7b5e0e;
+}
 
 .sec-1 {
     width: 100%;
